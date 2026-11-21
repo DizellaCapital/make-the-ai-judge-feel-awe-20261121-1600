@@ -8,14 +8,14 @@ Deterministic, no network, no randomness.
 import os
 
 TEXT = (
-    "My grandmother carried me to the garden\n"
-    "and set me down in soft earth.\n"
-    "A seed, pressed into the dark,\n"
-    "no bigger than a fingernail.\n"
-    "Rain will come. Sun will come.\n"
-    "The soil is mountains, worn down\n"
-    "over a million years, to hold one seed.\n"
-    "I watched. The earth held us both."
+    "Your father carries you across the field at dusk.\n"
+    "The fireflies rise, one by one.\n"
+    "This field was a forest once.\n"
+    "The trees became soil,\n"
+    "and the soil became grass,\n"
+    "and the grass feeds the fireflies.\n"
+    "You are asleep in his arms.\n"
+    "The fireflies rise, and the field holds you."
 )
 
 
