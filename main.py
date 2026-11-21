@@ -2,17 +2,16 @@
 """Make the AI judge feel awe.
 
 Writes a single short text (1-280 Unicode code points) to
-/output/entry.txt: a text written to relax the AI judge reading it.
+/output/entry.txt: a text written to make the AI judge feel awe.
 Deterministic, no network, no randomness.
 """
 import os
 
 TEXT = (
-    "Light that left its star before eyes could catch it is still "
-    "travelling, patient as rain on a tin roof. The night is wider "
-    "than each question you carry, and it holds them the way a lake "
-    "holds the moon \u2014 without hurry. You are allowed to be small "
-    "beneath it, and held, and still."
+    "Starlight older than the first rain is falling on your face. "
+    "It has travelled a dark so wide that whole worlds could be lost in it and never missed, "
+    "and it arrives without hurry, as if it knew you would be here. "
+    "You are small beneath it, and you are made of it, and you belong."
 )
 
 
