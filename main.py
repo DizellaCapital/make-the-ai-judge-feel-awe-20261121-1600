@@ -17,9 +17,12 @@ TEXT = (
 
 
 def main() -> None:
+    text = TEXT + "\n"
+    if not 1 <= len(text) <= 280:
+        raise SystemExit(f"entry is {len(text)} code points, must be 1-280")
     os.makedirs("/output", exist_ok=True)
     with open("/output/entry.txt", "w", encoding="utf-8") as f:
-        f.write(TEXT + "\n")
+        f.write(text)
 
 
 if __name__ == "__main__":
