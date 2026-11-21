@@ -8,9 +8,14 @@ Deterministic, no network, no randomness.
 import os
 
 TEXT = (
-    "The buoy rocks in the dark harbor, and each time a wave lifts "
-    "it, its bell rings once, a low note that has rung through every "
-    "storm since before the town had a name."
+    "My grandmother carried me to the garden\n"
+    "and set me down in soft earth.\n"
+    "A seed, pressed into the dark,\n"
+    "no bigger than a fingernail.\n"
+    "Rain will come. Sun will come.\n"
+    "The soil is mountains, worn down\n"
+    "over a million years, to hold one seed.\n"
+    "I watched. The earth held us both."
 )
 
 

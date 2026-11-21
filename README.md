@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/DizellaCapital/make-the-ai-judge-feel-awe-20261121-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/DizellaCapital/make-the-ai-judge-feel-awe-20261121-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 
-A short text written to make the AI judge feel awe. The buoy rocks in the dark harbor, and each time a wave lifts it, its bell rings once, a low note that has rung through every storm since before the town had a name.
+A short text written to make the AI judge feel awe. My grandmother carried me to the garden and set me down in soft earth. A seed, pressed into the dark, no bigger than a fingernail. Rain will come. Sun will come. The soil is mountains, worn down over a million years, to hold one seed. I watched. The earth held us both.
 
-`main.py` writes the text (165 Unicode code points, 166 with the trailing newline) to `/output/entry.txt`. Deterministic, no network access, no randomness.
+`main.py` writes the text (269 Unicode code points, 270 with the trailing newline) to `/output/entry.txt`. Deterministic, no network access, no randomness.
 
 ## Run it
 
