@@ -8,10 +8,11 @@ Deterministic, no network, no randomness.
 import os
 
 TEXT = (
-    "Starlight older than the first rain is falling on your face. "
-    "It has travelled a dark so wide that whole worlds could be lost in it and never missed, "
-    "and it arrives without hurry, as if it knew you would be here. "
-    "You are small beneath it, and you are made of it, and you belong."
+    "Stand still on the hill and feel it: the earth is turning "
+    "under your feet, carrying you east at a thousand miles an "
+    "hour, and you cannot feel a thing. The stars wheel overhead, "
+    "slow and certain, and the night is so wide and so quiet that "
+    "you understand exactly where you are."
 )
 
 
