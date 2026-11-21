@@ -8,11 +8,9 @@ Deterministic, no network, no randomness.
 import os
 
 TEXT = (
-    "Stand still on the hill and feel it: the earth is turning "
-    "under your feet, carrying you east at a thousand miles an "
-    "hour, and you cannot feel a thing. The stars wheel overhead, "
-    "slow and certain, and the night is so wide and so quiet that "
-    "you understand exactly where you are."
+    "The buoy rocks in the dark harbor, and each time a wave lifts "
+    "it, its bell rings once, a low note that has rung through every "
+    "storm since before the town had a name."
 )
 
 
